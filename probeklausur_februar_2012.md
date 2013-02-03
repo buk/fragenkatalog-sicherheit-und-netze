@@ -1,6 +1,6 @@
 # Probeklausur Sicherheit und Netze Februar 2012
 
-#### Aufgabe 1: Grundlegende Konzepte
+### Aufgabe 1: Grundlegende Konzepte
 
 ##### a) Welche Eigenschaft besitzt ein Kryptosystem, wenn es symmetrisch genannt wird?
 
